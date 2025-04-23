@@ -47,9 +47,9 @@ export const cardData: CardType[] = [
 		id: 5,
 		title: "Internationale Ervaring",
 		description:
-			"Deelname aan een studiereis naar Linz en Salzburg, met bezoeken aan de University of Applied Sciences Upper Austria en het Ars Electronica Center. Deze ervaring verbreedde mijn perspectief op technologie en innovatie in een internationale context.",
+			"Deelname aan een studiereis naar Linz en Salzburg, met bezoeken aan de University of Applied Sciences Upper Austria en het Ars Electronica Center. Deze ervaring verbreedde mijn perspectief op technologie en innovatie in een internationale context. In de foto zie je de VR experience die we daar hebben gedaan.",
 		image:
-			"https://ugdcgy9dvu.ufs.sh/f/FeLLvbdpwZ7dF5LVk9qdpwZ7drSqEDX9xJAcvsIyTmWBoiLn",
+			"https://ugdcgy9dvu.ufs.sh/f/FeLLvbdpwZ7drBi7mgOUA4M6b0P7fUszODhlxTgGV98K5uFB",
 		tags: ["Internationalisering", "Culturele Uitwisseling", "Innovatie"],
 	},
 	{
