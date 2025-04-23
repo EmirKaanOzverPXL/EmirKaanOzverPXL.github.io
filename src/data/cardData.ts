@@ -12,7 +12,8 @@ export const cardData: CardType[] = [
 		title: "Over Mij",
 		description:
 			"Ik ben een 20-jarige student Toegepaste Informatica aan de Hogeschool PXL in Hasselt. Ik ben iemand die graag nieuwe dingen ontdekt en voortdurend wil bijleren. Mijn grootste passie ligt bij alles wat met software te maken heeft, en ik vind het geweldig om creatieve, gebruiksvriendelijke en visueel aantrekkelijke websites en applicaties te ontwikkelen.",
-		image: "/assets/emir-wide.jpeg",
+		image:
+			"https://ugdcgy9dvu.ufs.sh/f/FeLLvbdpwZ7dcNsvMgjLYqvFOPNkSIyn24lsc8Aa7ej9hzbR",
 		tags: ["Student", "Developer", "Tech Enthusiast"],
 	},
 	{
@@ -38,7 +39,8 @@ export const cardData: CardType[] = [
 		title: "Seminaries & Workshops",
 		description:
 			"Actieve deelname aan diverse seminaries en workshops, waaronder API & Security Testing, Flutter development, Prompt Engineering met AI, en Domain-Driven Design. Deze activiteiten tonen mijn continue drang naar kennis en professionele ontwikkeling. De afbeelding hier is een screenshot van een semenarie over 'GenAI'.",
-		image: "/assets/superhero_wide.png",
+		image:
+			"https://ugdcgy9dvu.ufs.sh/f/FeLLvbdpwZ7dMgSufydJFHfuxh43YXVaAsyqIGD5TlZ2mE6S",
 		tags: ["Workshops", "Seminaries", "Professionele Ontwikkeling"],
 	},
 	{
@@ -46,7 +48,8 @@ export const cardData: CardType[] = [
 		title: "Internationale Ervaring",
 		description:
 			"Deelname aan een studiereis naar Linz en Salzburg, met bezoeken aan de University of Applied Sciences Upper Austria en het Ars Electronica Center. Deze ervaring verbreedde mijn perspectief op technologie en innovatie in een internationale context.",
-		image: "/assets/aec.jpg",
+		image:
+			"https://ugdcgy9dvu.ufs.sh/f/FeLLvbdpwZ7dF5LVk9qdpwZ7drSqEDX9xJAcvsIyTmWBoiLn",
 		tags: ["Internationalisering", "Culturele Uitwisseling", "Innovatie"],
 	},
 	{
@@ -54,7 +57,8 @@ export const cardData: CardType[] = [
 		title: "Hackathon Ervaring",
 		description:
 			"Deelname aan 'Hack the Future' bij Flexso, waar ik werkte aan de 'Intergalactic Cockpit' applicatie. Dit project onderzocht de kans op buitenaards leven door het analyseren van data over sterrenstelsels en het gebruik van externe APIs voor exploratie-rapporten.",
-		image: "/assets/hackathon.jpg",
+		image:
+			"https://ugdcgy9dvu.ufs.sh/f/FeLLvbdpwZ7daXYkrYT4d1OXzpliKuxjWM3QGNhCb08L9RZT",
 		tags: ["Hackathon", "Innovatie", "Teamwork"],
 	},
 	{
